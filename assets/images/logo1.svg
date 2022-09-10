@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="810.239" height="236.112" viewBox="0 0 810.239 236.112">
+  <defs>
+    <filter id="Rectangle_1" x="252" y="75.112" width="516" height="145" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="logo" transform="translate(-194 -240.888)">
+    <g id="Group_3" data-name="Group 3">
+      <g id="Group_2" data-name="Group 2">
+        <g id="Group_4" data-name="Group 4">
+          <g transform="matrix(1, 0, 0, 1, 194, 240.89)" filter="url(#Rectangle_1)">
+            <rect id="Rectangle_1-2" data-name="Rectangle 1" width="516" height="145" transform="translate(252 75.11)" fill="#0a79df"/>
+          </g>
+          <text id="aamoz" transform="translate(448 440)" fill="#fff" font-size="159" font-family="Helvetica"><tspan x="0" y="0">aamoz</tspan></text>
+          <text id="i" transform="translate(926 440)" fill="#fff" font-size="113" font-family="Helvetica-Bold, Helvetica" font-weight="700"><tspan x="0" y="0">i</tspan></text>
+          <text id="Kar" transform="translate(194 440)" font-size="159" font-family="Helvetica"><tspan x="0" y="0">Kar</tspan></text>
+          <path id="ic_school_24px" d="M23.451,54.04V74.1l39.29,19.153L102.031,74.1V54.04L62.741,73.193ZM62.741,3,1,33.083,62.741,63.165l50.516-24.618V73.193h11.226V33.083Z" transform="translate(894.686 237.761) rotate(27)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

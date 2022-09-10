@@ -1,0 +1,34 @@
+a {
+  text-decoration: none !important;
+}
+a:hover {
+  text-decoration: none !important;
+}
+.nav-item a:hover {
+  color: #0275d8 !important;
+  background-color: #ededed;
+}
+@media (min-width: 768px) {
+  .pr-md-6rem,
+  .px-md-6rem {
+    padding-right: 6rem !important;
+  }
+  .pl-md-6rem,
+  .px-md-6rem {
+    padding-left: 6rem !important;
+  }
+}
+footer {
+  background-color: rgb(32, 32, 32);
+  color: azure !important;
+}
+footer a:hover {
+  color: rgb(154, 175, 192) !important;
+}
+
+@media (min-width: 768px) {
+  .mt-md-fit,
+  .my-md-fit {
+    margin-top: 13rem !important;
+  }
+}
